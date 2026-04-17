@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vishalakshi 👋
 
-<!--
-**vishalakshi280406/vishalakshi280406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 cybersecurity enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🎉 Dad's Birthday Website  
+- 📊 Skill Tracker Application  
+- 🏛️ FRA Rights Act (SIH Hackathon Project)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript  
+- Java  | c | c++ | python
+- Git & GitHub  
+
+## 🔐 Currently Learning
+- fundamentals of Cybersecurity  
+- Ethical Hacking  
+- Network Security
+- programming languages
+
+## 📫 Contact
+- vishalakshipalaniappan7@gmail.com
